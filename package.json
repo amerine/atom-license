@@ -1,0 +1,26 @@
+{
+  "name": "atom-license",
+  "main": "./lib/atom-license",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Quickly add various OSS licenses to your software using the command palette.",
+  "activationEvents": [
+    "license:MIT",
+    "license:Apache-2․0",
+    "license:BSD",
+    "license:Artistic-2․0",
+    "license:GPL-v2",
+    "license:GPL-v3",
+    "license:LGPL-v2․1",
+    "license:LGPL-v3",
+    "license:Mozilla",
+    "license:The-Unlicense"
+  ],
+  "repository": "https://github.com/amerine/atom-license",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
